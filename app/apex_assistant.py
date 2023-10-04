@@ -1,0 +1,2 @@
+class ApexAssistant:
+    pass
